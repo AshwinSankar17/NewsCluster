@@ -44,8 +44,8 @@ def get_content(links):
         content = []
         for url in links:
             article = Article(url)
-            article.download()
             article.parse()
+            article.download()
             title = article.title
             news = clean_text(article.text)
             if title != None or news != None or news != ' ' or news != '':      # for sites which news content cannot be scraped
