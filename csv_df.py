@@ -28,10 +28,11 @@ def df_to_csv(df, filename='NewsCluster.csv'):
     df.to_csv('./data/' + filename)
 
 
-def create_csv():
+def create_csv(links):
     '''
         aggregator function of this module
     '''
-    print('create_csv_main')
-    content_lst = scraper()
-    df_to_csv(create_df(content_lst))
+    for link in links:
+        print('create_csv_main')
+        content_lst = scraper(link)
+        df_to_csv(create_df(content_lst))

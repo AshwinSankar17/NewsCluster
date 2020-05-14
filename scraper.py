@@ -1,7 +1,5 @@
 from newspaper import Article, ArticleException
 import newspaper
-import requests
-from bs4 import BeautifulSoup
 
 def scrape_google_links(url='http://cnn.com'):
     '''
@@ -58,12 +56,12 @@ def get_content(links):
         return content
     
 
-def scraper():
+def scraper(link):
     '''
         aggregator function
     '''
     print('scraper_main')
-    return get_content(scrape_google_links()[:100])
+    return get_content(scrape_google_links(link)[:200])
 
 # if __name__ == "__main__":
     # links = scrape_google_links()
