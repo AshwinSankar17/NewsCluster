@@ -59,7 +59,7 @@ def scraper(link='https://timesofindia.indiatimes.com/'):
         aggregator function
     '''
     print('scraper_main')
-    return get_content(scrape_news_links(link)[:100])
+    return get_content(scrape_news_links(link))
 
 # if __name__ == "__main__":
     # links = scrape_google_links()
