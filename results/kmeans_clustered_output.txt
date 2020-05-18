@@ -1,31 +1,4 @@
 Cluster     Headline
-<<<<<<< HEAD
-1,uk economy shrank record 5 8 march much pain come
-1,gen z hit hardest financial fallout coronavirus
-1,spain impose 14 day quarantine international arrivals
-6,tornadoes possible tornado alley wednesday
-6,vongfong first named storm year west pacific
-4,afghan president orders resumption offensive operations taliban blow trump deal
-6,midwives face fear new challenges coronavirus spreads africa
-0,wealthy self isolate poor afford stay put sao paulo
-6,cuba slams us shooting attack embassy washington
-1,hong kong pushing controversial national anthem bill protests kicking
-1,india coronavirus way states handled virus shows country vast divide
-6,luckin coffee fires ceo coo accounting scandal
-6,quibi netflix weirdest rival rough start
-5,one buying pants pajama sales soaring
-6,twitter let employees work home forever
-3,report lebron giannis steph curry stars favor nba resuming season
-1,woj nba discussed comfort positive tests derailing return
-1,women soccer ref katja koroleva working physician assistant amid covid 19
-3,china cctv reiterates intention airing nba games
-6,kobe bryant partnered mamba sports academy rebranded sports academy
-6,photos places starting reopen
-2,pictures ramadan unlike
-1,australian lawmaker tested covid 19 coughing fit parliament
-4,34 staggering lines donald trump rose garden press conference
-1,trump says us leads world testing far behind testing per capita studies show
-=======
 6,watch latest news videos
 6,hindi tv news check latest news hindi tv shows tv celebrities hindi tv serials
 3,speech modi made
@@ -51,4 +24,3 @@ Cluster     Headline
 0,indian intellect vs bharatiya viveka buddhi 1
 0,corona induced cuts shouldnt mar army capabilities
 5,prohibition makes little sense covid times
->>>>>>> old-state

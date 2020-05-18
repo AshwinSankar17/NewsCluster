@@ -14,7 +14,7 @@ def to_database():
     '''
     with sqlite3.connect('./data/NEWS.DB') as con:
         cur = con.cursor()
-        cur.execute('CREATE TABLE IF NOT EXISTS content(headlines TEXT, news TEXT);')
+        cur.execute('CREATE TABLE IF NOT EXISTS content(headlines TEXT, news TEXT PRIMARY KEY);')
         with open('./data/NewsCluster.csv', encoding='utf-8') as fin:
             dr = csv.DictReader(fin)
             for i in dr:

@@ -35,11 +35,6 @@ def create_csv(links):
     '''
         aggregator function of this module
     '''
-<<<<<<< HEAD
-    for link in links:
-        print('create_csv_main')
-        content_lst = scraper(link)
-=======
     print('create_csv_main')
     content_list = []
     for link in LINKS:
@@ -57,5 +52,4 @@ def create_csv(links):
             raise ValueError('Provide a larger number for dataset')
         df_to_csv(create_df(content_lst[:num]))
     except ValueError as ve:
->>>>>>> old-state
         df_to_csv(create_df(content_lst))

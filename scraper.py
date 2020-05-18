@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-from newspaper import Article, ArticleException
-import newspaper
-
-def scrape_google_links(url='http://cnn.com'):
-=======
 from newspaper import Article
 from newspaper import ArticleException
 import newspaper
@@ -11,7 +5,6 @@ import newspaper
 
 
 def scrape_news_links(url):
->>>>>>> old-state
     '''
         Scrapes links : not only google but any online vendor.
         set url while calling the function
@@ -44,20 +37,6 @@ def get_content(links):
         get headlines and news content
     '''
     print('getting content')
-<<<<<<< HEAD
-    try:
-        content = []
-        for url in links:
-            article = Article(url)
-            article.parse()
-            article.download()
-            title = article.title
-            news = clean_text(article.text)
-            if title != None or news != None or news != ' ' or news != '':      # for sites which news content cannot be scraped
-                content.append([title, news])
-    except ArticleException:
-        pass
-=======
     content = []
     try:
         for url in links:
@@ -74,25 +53,16 @@ def get_content(links):
     except ArticleException as ae:
         if 'Article \'download()\' failed' in ae:
             print('Could not get article')
->>>>>>> old-state
     finally:    
         return content
     
 
-<<<<<<< HEAD
-def scraper(link):
-=======
 def scraper(link='https://timesofindia.indiatimes.com/'):
->>>>>>> old-state
     '''
         aggregator function
     '''
     print('scraper_main')
-<<<<<<< HEAD
-    return get_content(scrape_google_links(link)[:200])
-=======
     return get_content(scrape_news_links(link))
->>>>>>> old-state
 
 # if __name__ == "__main__":
     # links = scrape_google_links()
