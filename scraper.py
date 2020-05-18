@@ -1,7 +1,7 @@
 from newspaper import Article
 from newspaper import ArticleException
 import newspaper
-import string
+
 
 
 def scrape_news_links(url):
@@ -45,8 +45,11 @@ def get_content(links):
             article.parse()
             title = clean_text(article.title)
             news = clean_text(article.text)
-            if title != None or news != None or news != ' ' or news != '':      # for sites which news content cannot be scraped
-                content.append([title, news])
+            if title != None:
+                if news != None: 
+                    if news != ' ': 
+                        if news != '':      # for sites which news content cannot be scraped
+                            content.append([title, news])
     except ArticleException as ae:
         if 'Article \'download()\' failed' in ae:
             print('Could not get article')

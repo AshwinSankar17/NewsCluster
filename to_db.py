@@ -22,8 +22,8 @@ def to_database():
                     tup = (i['Title'], i['News'])
                     insert_to_db(tup)
                 except IntegrityError as ie:
-                    if 'unique constraint' in ie:
-                        continue
+                    # if 'unique constraint' in ie:
+                    continue
 
             # to_db = [(i['Title'], i['News']) for i in dr]
         
