@@ -1,5 +1,12 @@
 import sqlite3
+from sqlite3 import IntegrityError
 import csv
+
+def insert_to_db(tup):
+    with sqlite3.connect('./data/NEWS.DB') as con:
+        cur = con.cursor()
+        cur.execute("INSERT INTO content (headlines, news) VALUES(?, ?);", tup)
+        con.commit()
 
 def to_database():
     '''
@@ -10,9 +17,17 @@ def to_database():
         cur.execute('CREATE TABLE IF NOT EXISTS content(headlines TEXT, news TEXT);')
         with open('./data/NewsCluster.csv', encoding='utf-8') as fin:
             dr = csv.DictReader(fin)
-            to_db = [(i['Title'], i['News']) for i in dr]
+            for i in dr:
+                try:
+                    tup = (i['Title'], i['News'])
+                    insert_to_db(tup)
+                except IntegrityError as ie:
+                    # if 'unique constraint' in ie:
+                    continue
+
+            # to_db = [(i['Title'], i['News']) for i in dr]
         
-        cur.executemany("INSERT INTO content (headlines, news) VALUES(?, ?);", to_db)
+        # cur.executemany("INSERT INTO content (headlines, news) VALUES(?, ?);", to_db)
         con.commit()
     con.close()
 

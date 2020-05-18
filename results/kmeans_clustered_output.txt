@@ -1,4 +1,5 @@
 Cluster     Headline
+<<<<<<< HEAD
 1,uk economy shrank record 5 8 march much pain come
 1,gen z hit hardest financial fallout coronavirus
 1,spain impose 14 day quarantine international arrivals
@@ -24,3 +25,30 @@ Cluster     Headline
 1,australian lawmaker tested covid 19 coughing fit parliament
 4,34 staggering lines donald trump rose garden press conference
 1,trump says us leads world testing far behind testing per capita studies show
+=======
+6,watch latest news videos
+6,hindi tv news check latest news hindi tv shows tv celebrities hindi tv serials
+3,speech modi made
+4,increasingly selfish world self reliance route india
+3,letter apology migrants made homes highways
+5,dont defeat covid need make peace
+0,decoding economic revival package factoring limited fiscal space bets enhanced credit flows trigger
+0,reopen kickstarting economy cannot delayed longer
+3,beauty contest lipstick takes backseat mascara
+0,government agencies ensure safety security migrant workers
+4,five lessons covid factors negative india greater impact mitigating ones
+4,write india entries clare mackintosh
+3,4 things might reconcile ex
+1,lip colours look amazing dusky skin tone
+3,3 sex positions guarantee orgasm
+2,feminawithyou download copy latest digital issue
+3,best lockdown fabrics styles summer clothes
+3,wait
+3,reformat memory
+3,loyal messenger
+5,try self kindness therapy beat covid blues
+3,practise eco philosophy celebrate life
+0,indian intellect vs bharatiya viveka buddhi 1
+0,corona induced cuts shouldnt mar army capabilities
+5,prohibition makes little sense covid times
+>>>>>>> old-state
