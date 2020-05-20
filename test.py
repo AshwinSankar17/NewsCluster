@@ -1,8 +1,9 @@
-from newspaper import Article
+from progress.bar import Bar
+import time
 
-article = Article('https://www.thequint.com/news/india/india-china-faceoff-in-sikkim-small-indian-lt-who-punched-a-big-chinese-major')
-article.download()
-article.parse()
-title = article.title
-news = article.text
-print((title,news))
+bar = Bar('Processing', max=20)
+for i in range(20):
+    # Do some work
+    bar.next()
+    time.sleep(0.1)
+# bar.finish()

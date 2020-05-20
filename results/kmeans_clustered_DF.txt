@@ -1,54 +1,501 @@
 ,label,data,x,y
-<<<<<<< HEAD
-0,1,uk economy shrank record 5 8 march much pain come,-0.7097071765127925,0.2668603474829308
-1,1,gen z hit hardest financial fallout coronavirus,-0.4555718368652059,-0.5511025041552302
-2,1,spain impose 14 day quarantine international arrivals,-0.048999125145257255,-0.7348152077509045
-3,6,tornadoes possible tornado alley wednesday,0.2189374412467447,-0.700206882855302
-4,6,vongfong first named storm year west pacific,0.0700791694399342,0.5069474179235242
-5,4,afghan president orders resumption offensive operations taliban blow trump deal,-0.6122094217111704,-0.3465784369108724
-6,6,midwives face fear new challenges coronavirus spreads africa,0.10294530885733831,-0.4088770042052628
-7,0,wealthy self isolate poor afford stay put sao paulo,-0.7489758177709891,-0.11164892350206508
-8,6,cuba slams us shooting attack embassy washington,0.17785776031992862,0.02094163696967551
-9,1,hong kong pushing controversial national anthem bill protests kicking,0.7397606824323415,0.1505448461051684
-10,1,india coronavirus way states handled virus shows country vast divide,0.45873144284176554,-0.5725470710511525
-11,6,luckin coffee fires ceo coo accounting scandal,-0.49465788878005384,0.39179126575878714
-12,6,quibi netflix weirdest rival rough start,-0.2596821221951469,-0.6104473238894563
-13,5,one buying pants pajama sales soaring,0.7069286304526645,-0.28931016407384147
-14,6,twitter let employees work home forever,0.3791204806935503,0.6378962326424927
-15,3,report lebron giannis steph curry stars favor nba resuming season,0.6029750553980379,0.4108341662119366
-16,1,woj nba discussed comfort positive tests derailing return,0.407957057986769,-0.2802322271043445
-17,1,women soccer ref katja koroleva working physician assistant amid covid 19,-0.18498345584522288,0.6237562838264125
-18,3,china cctv reiterates intention airing nba games,0.08648524850831991,0.7484842720323416
-19,6,kobe bryant partnered mamba sports academy rebranded sports academy,0.35228658425965387,0.32015340055751923
-20,6,photos places starting reopen,-0.4313382832642929,0.6049435409243982
-21,2,pictures ramadan unlike,-0.20232888075538136,0.15809438912707705
-22,1,australian lawmaker tested covid 19 coughing fit parliament,-0.23658529153110508,-0.1947810965497203
-23,4,34 staggering lines donald trump rose garden press conference,0.5940850365214688,-0.03407867579854515
-24,1,trump says us leads world testing far behind testing per capita studies show,-0.5131105985818987,-0.0066222817155661895
-=======
-0,6,watch latest news videos,-0.06309579482376268,0.1235780100545904
-1,6,hindi tv news check latest news hindi tv shows tv celebrities hindi tv serials,0.664413397980452,-0.18662808166274433
-2,3,speech modi made,0.733284075344577,0.08525292784089966
-3,4,increasingly selfish world self reliance route india,-0.5176160218469107,0.5331083557830804
-4,3,letter apology migrants made homes highways,0.12219642193891245,0.7134767618104307
-5,5,dont defeat covid need make peace,-0.18747784637707374,-0.5542419786062588
-6,0,decoding economic revival package factoring limited fiscal space bets enhanced credit flows trigger,0.6546870019562095,0.35652573008472715
-7,0,reopen kickstarting economy cannot delayed longer,-0.678185128762409,0.2917308417091898
-8,3,beauty contest lipstick takes backseat mascara,0.3469334132946682,0.6354712431420114
-9,0,government agencies ensure safety security migrant workers,0.4039730422345765,-0.5667181856070762
-10,4,five lessons covid factors negative india greater impact mitigating ones,-0.41366705507960577,-0.580749518668351
-11,4,write india entries clare mackintosh,-0.7368799465814933,-0.006013867095944767
-12,3,4 things might reconcile ex,0.4247293689826189,0.09007840917399693
-13,1,lip colours look amazing dusky skin tone,-0.03683420633283069,0.4576913326897803
-14,3,3 sex positions guarantee orgasm,-0.46871087939637873,0.026109615079666464
-15,2,feminawithyou download copy latest digital issue,-0.16871651940147744,0.7084381038189886
-16,3,best lockdown fabrics styles summer clothes,0.19808526221397607,-0.6901855646195207
-17,3,wait,0.5930445898342952,-0.4313482230464091
-18,3,reformat memory,0.29755796473543916,-0.1680754647290547
-19,3,loyal messenger,0.4217774557639895,0.42743216061760636
-20,5,try self kindness therapy beat covid blues,-0.011077923333201714,-0.3249542308777448
-21,3,practise eco philosophy celebrate life,-0.45709952429577044,-0.27159391348777717
-22,0,indian intellect vs bharatiya viveka buddhi 1,-0.6770127493102324,-0.361315135204663
-23,0,corona induced cuts shouldnt mar army capabilities,-0.36197044002410045,0.41406711137246105
-24,5,prohibition makes little sense covid times,-0.08233795871446782,-0.7211364395718841
->>>>>>> old-state
+0,1,breaking latest news india ahmedabad mirror,-0.33057549624067245,0.4869145303967915
+1,2,stock market finance stock exchange business news ahmedabad mirror,-0.5290111180878414,0.17346898491258914
+2,1,latest photos entertainment news sports ahmedabad mirror,-0.5694684297332229,0.38403127182808494
+3,0,times live tv watch coronavirus cases india live news,-0.12207336532873389,0.1309332056839123
+4,1,et live tv latest business news share market news finance news,-0.3076560367740619,0.32180056743737945
+5,1,zoom live tv latest entertainment news movies news celebrity gossips,-0.3496154170914154,0.5788764540590149
+6,1,mirror live tv breaking news latest political news sports news,-0.3102333571438355,0.4839167268389752
+7,4,watch latest news videos,-0.28569157314116583,0.6206215083426616
+8,2,hindi tv news check latest news hindi tv shows tv celebrities hindi tv serials,-0.19648174152342854,0.727783974612227
+9,0,lockdown easing many rwas seem noticed,-0.2791504728626584,-0.6321989699110302
+10,2,heres talk partner fetish,0.6266835626270436,0.472176516463364
+11,2,self reliance self isolation coining atmanirbhar bharat started new conversation globalisation,-0.7332891582644896,0.20614518598391884
+12,2,misery wheels public transport stasis jobs migrants chasing bogged,0.5439152752772777,0.22406603380616633
+13,2,amphan strike preparing simultaneous disasters ought new mantra,-0.4648288060293319,-0.5473584169324391
+14,2,want understand next emerging infectious disease cannot ignore environment animals,-0.7446184356905662,0.16848262626225
+15,2,booze biz delhi states hike liquor prices corona cess boomtime bootleggers,-0.7137423735771854,-0.08322018032807733
+16,2,darling buds may opting immigration option india united states,0.49942034273021346,-0.07973841824982589
+17,2,prosperitys sake government exit businesses focus public goods like health education,0.3351502008614253,-0.606226263099207
+18,2,reform probe covid origin lay foundation global health accountability,0.5502257124252711,0.42396867791043386
+19,2,big bang financial package silver lining end countrys stormy night,-0.7796926772834872,0.026236764528399965
+20,2,everyones expert data scientist although never really spelled come,0.7417410410168174,0.23271168349993107
+21,2,write india entries clare mackintosh,-0.6213855758158171,0.509441662899478
+22,0,lockdown diaries indulge perfect date night home,-0.3899110261973984,-0.4571301602247362
+23,2,4 diy masks different hair problems,0.7400671324323262,-0.19880497247451986
+24,2,sex toys boon bane,-0.4086002200912768,-0.6701980199394056
+25,2,feminawithyou download copy latest digital issue,-0.6208456777543204,0.2524592608689585
+26,2,work home outfits according zodiac sign,-0.5183478968175439,-0.39255215786245423
+27,2,wait,-0.07382318206648222,-0.7803809206795019
+28,2,reformat memory,0.20280521307248153,-0.7614140162114501
+29,2,loyal messenger,0.532762612981587,0.5766879026347638
+30,2,try selfkindness therapy beat covid blues,-0.7625087614805821,-0.18159145651117947
+31,2,practise ecophilosophy celebrate life,0.6302544814715526,-0.10799766384138161
+32,0,bring back experts coronavirus crisis might help stem populism,-0.3730295525876942,-0.3757796695154282
+33,2,home heart,0.5477827771241301,-0.3278453604743598
+34,2,prohibition makes little sense covid times,0.5902738126305362,0.010383251237507806
+35,2,lift restrictions zones july learn live corona,0.47498852380528367,-0.41108988263135476
+36,2,capital redesign must move towards participatory culture,-0.7816623770238562,0.12046771880722303
+37,0,okcovid lockdown lust stories going viral time virus,-0.17542915739342688,-0.4636859180047447
+38,2,storiesofhope,0.7779650901216087,-0.1025140742878259
+39,2,sliver hope storiesofhope,0.7315757219490654,0.27769926903507913
+40,2,last hope,0.7135432599575706,0.3132877947066061
+41,2,last drop water stories hope,0.665593286357996,0.12180800808796952
+42,2,stories hope,-0.08920105053880599,0.7871796310679561
+43,4,bollywood news latest bollywood gossip actresses actors movies films india,0.09509504226542731,0.6085682442185166
+44,4,telugu cinema news tollywood news movies celebrities actresses actors films songs videos,0.10716088261437764,0.5429751898738234
+45,4,tamil cinema news kollywood news movies celebrities actresses actors films songs videos,0.09948875309007196,0.5500745751244773
+46,4,mollywood news malayalam cinema news movies celebrities actresses actors films songs videos,0.10745617343354084,0.5295931890651271
+47,0,best bollywood films 2020 times india,0.15187149783951465,0.13774969292716352
+48,0,best hollywood films 2020 times india,0.16558585500211467,0.10186577067067322
+49,0,best tamil films 2020 times india,0.12908799290206907,0.11502259476266527
+50,0,best telugu films 2020 times india,0.15041180145920233,0.10618613692365117
+51,0,best malayalam films 2020 times india,0.16730944915068835,0.1246009104090239
+52,0,best kannada films 2020 times india,0.18529777180880658,0.12607101152431016
+53,0,best marathi films 2020 times india,0.13600678579565953,0.09850051462317982
+54,0,best bengali films 2020 times india,0.1817948143857109,0.14244786306672216
+55,4,watch latest news videos,-0.2856915910024269,0.6206214988464324
+56,2,hindi tv news check latest news hindi tv shows tv celebrities hindi tv serials,-0.19612861519690564,0.7279137941397722
+57,1,politics news india breaking news current political news india,-0.2723385749702646,0.38928635835223546
+58,1,breaking news latest news current affairs,-0.30758568864205094,0.5613351839960969
+59,1,breaking news latest news current affairs,-0.30758559014478143,0.561334620737756
+60,0,cashstrapped indias economic plan unlikely soften coronavirus blow reuters,-0.15319716305079892,-0.09977351185857967
+61,2,corporate social responsibility way ahead,-0.6804128396591428,-0.37584715985461536
+62,2,rising share preowned car segment india,0.43574910563488495,-0.003158891015141094
+63,2,coronainduced cuts shouldnt mar army capabilities,0.40037085874947603,0.6731386357630468
+64,2,emerging scenario coronainfested india abroad,-0.5115971534515665,-0.15499794277305906
+65,2,long awaited agricultural reforms bring cheer sector,0.3645338213415272,0.6407184370089447
+66,2,health crisis correcting health indian agriculture,-0.21533342224326407,-0.6550775127037982
+67,0,lockdown role move,0.21496564315550132,-0.5649417125462484
+68,1,latest news latest news today read latest news updates,-0.30362701694812166,0.4373880478700196
+69,1,politics news live politics news india latest politics nation news headlines,-0.35494149935349345,0.41104739110523475
+70,2,global manufacturing wont desert china india automation nearshoring priority,0.20998898364384444,-0.6503131779227171
+71,2,indian component makers must aim breakthroughs frugal innovation cater local market,-0.576865519067534,-0.4157897891724223
+72,2,crisis little different animal hurting indian 2008,-0.5001470145231005,-0.4291814530206529
+73,1,latest news latest news today read latest news updates,-0.30362701694527783,0.4373880478009915
+74,0,coronavirus updates coronavirus india updates coronavirus latest update,-0.09811454369126899,-0.04749245985240117
+75,2,top mutual fund schemes invest fy 202021 economic times,-0.6527639822050247,0.20526994328256462
+76,0,read read trending news check trending stories latest updates,-0.42040058556494064,0.19259778690997614
+77,1,politics news live politics news india latest politics nation news headlines,-0.3549414993365209,0.41104739103603954
+78,0,coronavirus impact jobs read latest updates coronavirus impact jobs india,-0.12289899140105301,-0.0057250817683977715
+79,0,indian railways news indian railways news today read latest indian railways updates indian railways news economic times,0.09266634550516467,0.4604002170459954
+80,1,world news world news latest international updates,-0.19025566131949373,0.29484495886504264
+81,1,india news live india news read today india news updates india economy news economics times,-0.14889829639602384,0.27330167980171477
+82,0,read discover latest news indian economy government policy economic indicators economic times,-0.32340872164363005,0.14650593915146895
+83,1,defence news read latest defence news economic times,-0.28329082176102705,0.24973442172930602
+84,1,world news read latest international news breaking world news headlines economic times,-0.15924056242041398,0.3232829965866088
+85,0,coronavirus impact crude oil price read latest updates coronavirus impact crude oil price,-0.37821561405234955,0.024987840303977427
+86,1,entertainment news bollywood news tollywood news kollywood news hollywood news mollywood news,-0.23746470081718085,0.5267670719360442
+87,4,kannada cinema news movies celebrities actresses actors films songs videos,0.16655963584427208,0.5257376253841821
+88,4,bengali cinema news movies celebrities actresses actors films songs videos,0.17043215529032107,0.3915031418565911
+89,4,punjabi cinema news movies celebrities actresses actors films songs videos,0.16470100035480292,0.3947153194074411
+90,4,marathi cinema news movies celebrities actresses actors films songs videos,0.1646409860101042,0.38246266166600584
+91,4,bhojpuri cinema news movies celebrities actresses actors films songs videos,0.17063018917613793,0.40608258376994855
+92,4,watch news videos popular news video clips online bangalore mirror,-0.11280348519287649,0.709781481112264
+93,4,watch news videos popular news video clips online bangalore mirror,-0.11280348525332339,0.7097814811051029
+94,1,india news latest breaking news india,-0.21274777114868926,0.33922607521149173
+95,1,world news asia europe america india rest world news headlines,-0.04331108037946784,0.23073279530719545
+96,1,sports news cricket news football news tennis news,-0.2363490804075982,0.5682098211219928
+97,1,latest news weird wacky news online,-0.25590875141745956,0.630725192742581
+98,5,technology news latest breaking news updates technology events gadgets products announcements,-0.38698599845246645,0.2591892513519211
+99,3,indias covid19 cases cross 1 lakh mark seriously worrying,0.29753195536200905,0.10074145824535202
+100,2,ubisofts assassins creed valhalla looks brutally amazing,0.7815663200572406,0.03347060639641936
+101,2,unreal engine 5 shows us future gaming graphics,0.7779463552660438,0.10919814338480249
+102,3,indias covid19 cases goes past 96000 mark,-0.32670381783117625,-0.06889938385322615
+103,2,diy guide ensure cool indoors home,0.7423760293942238,0.016334996440852543
+104,2,survival guide coping anxiety issues,0.658287022368708,0.3650921061722993
+105,2,smart offfield educated indian sportspersons,0.1910980222631919,0.7298426563371682
+106,2,upcoming biopics tell stories reallife heroes,-0.375374742388382,-0.6279665570015095
+107,3,india overtakes china crosses 86000 covid19 cases,-0.23542449464444212,-0.05172972982670051
+108,2,add fat burning foods diet stay shape,-0.746126753479539,0.058418946585514823
+109,3,study suggests unless herd immunity weather change cant curb spread covid19,0.44874937809509324,-0.5114115943599494
+110,3,worldrenowned biochemist rapidly finds covid19 antibodies plasma accelerate cure,-0.6049378874858974,-0.3075053481119248
+111,2,chinese scientists claim new drug stop pandemic without vaccine,-0.5322406850954693,0.0164382426779173
+112,3,sell mona lisa rs 4 lakh crore frances covid19 recovery says tech ceo,0.1534995951455741,0.7371363936337932
+113,2,cancer survivor covid warrior story home guard gujarat inspiring,0.3617260777534985,0.5872196799871479
+114,3,covid19 could push 60 mn poverty warns world bank announces 160 bn aid 100 nations,0.44495937716544126,0.05308503268022514
+115,2,heres bring flavours abu dhabi dinner table yogurtrice spiced onions sweet dumplings,-0.7839647633944402,-0.06546078452506136
+116,2,subscribed disneyhotstar looks like bingewatch days sorted,0.5680708819471008,-0.49815699209125064
+117,0,delhi opens air quality dropped poor first time since lockdown began,0.3950862153914983,0.36199743615034846
+118,2,89yearold grandma oldest video game youtuber world shes amazing,-0.44743767030197945,0.030235943016238366
+119,2,chronicle pandemic foretold,0.1098121656530083,0.7798599011760123
+120,2,connect despite physical distancing,-0.07007796140891531,0.8063017441505443
+121,2,cough infectious,0.21787787977015008,-0.737752774007675
+122,2,new doorway introspection,0.757598059136478,0.14261734055028258
+123,2,corona karma,-0.7614971086874928,-0.09120302514790027
+124,2,corona karuna,0.46581854332513606,0.591429126540542
+125,2,take quiz see fare,-0.7538156115241242,0.23192309758879617
+126,2,protect fear contagion,0.04664779558129643,0.7977969132482183
+127,2,,0.5053254378361415,0.6021211583159141
+128,2,,0.6037085233544321,0.49487179114714275
+129,2,,-0.7894775456597972,-0.013322619742811355
+130,2,fake alert,0.6606899377025116,0.4212852092664497
+131,2,fake sp,0.6704192253779265,0.4057150178727612
+132,2,,0.6942060037786255,-0.3690364036674565
+133,2,,0.768603884321627,-0.1879195193503052
+134,2,18 24,-0.6262679126816051,-0.454114301657944
+135,2,seasons fleetings shawl say goodbye winter wool last little longer,-0.5174168126396876,-0.582567377096294
+136,2,best train ever made india trail blazing train 18 could game changer intercity commuters,0.42483337081281525,-0.059873376718553376
+137,2,life death crime kidney rackets underline urgency repairing indias organ donation ecosystem,0.6173916634284587,0.05049991378111119
+138,2,twitter better taking stand open choices rather affecting neutrality,-0.7518377036254725,-0.22194505450004545
+139,2,indiansaudi tango mbs commits antiterror cooperation among bilateral positives,-0.28658096167856534,0.7629029740286367
+140,2,terror firma india hits back pakistans export business boomerang,0.32634220272990944,0.18141649743187183
+141,2,purnima tripathi,0.3763229910314501,-0.6909480490054462
+142,2,k rajalakshmi,-0.726200074854952,0.313979177156896
+143,1,national news india news latest national news breaking news india,-0.207022664478766,0.3772856357086028
+144,1,international news breaking world news latest international news,-0.21985728153283446,0.3900920803272627
+145,1,latest regional news politics events entertainment,-0.4688180479031709,0.5245741288741341
+146,1,latest news updates major cities india,-0.25998875367956586,0.21149770231397452
+147,1,india states latest news live updates politics events,-0.3970679353468104,0.3318037399805736
+148,1,resources news,-0.1193193734746869,0.2600290012090431
+149,1,kerala latest news live updates politics events,-0.4486960370445455,0.3569540715231755
+150,1,chennai latest news politics events entertainment,-0.45625302355705283,0.5295984930928379
+151,1,hyderabad latest news politics events entertainment,-0.45478096375044164,0.49986693276427546
+152,1,bengaluru latest news politics events entertainment,-0.5107265778875821,0.45243349897986124
+153,1,andhra pradesh latest news live updates politics events,-0.4928815168152121,0.3443073970191825
+154,1,karnataka latest news live updates politics events,-0.4469806525565859,0.36900376605213425
+155,1,tamil nadu latest news live updates politics events,-0.466613594276356,0.33320118194412907
+156,1,telangana latest news live updates politics events,-0.46019976672687085,0.36732975187125255
+157,1,coimbatore latest news politics events entertainment,-0.5089373283399402,0.4654929194110793
+158,1,delhi latest news politics events entertainment,-0.4598111596287689,0.4651498827448676
+159,1,kochi latest news politics events entertainment,-0.49185580418555036,0.5041297909354375
+160,1,kolkata latest news politics events entertainment,-0.4659947646435661,0.48379939712533804
+161,1,mumbai latest news politics events entertainment,-0.5013779511419614,0.44220977464113725
+162,1,kozhikode latest news politics events entertainment,-0.480025080708667,0.4611980950432918
+163,1,madurai latest news politics events entertainment,-0.5084279908547519,0.47913765243551415
+164,1,mangalore latest news politics events entertainment,-0.47285992964992124,0.5025138396328352
+165,1,puducherry latest news politics events entertainment,-0.5012231882864525,0.49290222852227206
+166,1,thiruvananthapuram latest news politics events entertainment,-0.4878830626252169,0.47873349286218014
+167,1,trichy latest news politics events entertainment,-0.4869997488499584,0.44725928258412423
+168,1,vijayawada latest news politics events entertainment,-0.48174588662253437,0.5169828008958796
+169,1,visakhapatnam latest news politics events entertainment,-0.4524868372698121,0.5167611637473452
+170,1,local news,-0.060611308053477406,0.695345300580391
+171,0,coronavirus,0.018851164743967176,-0.2951592226620971
+172,2,newborn baby survived two gunshots,-0.7112786462439624,-0.30189190153184164
+173,1,bbc news,-0.10155775567143793,0.541857107312024
+174,1,bbc news,-0.10155775567143785,0.5418571073120236
+175,1,bbc news,-0.1015577556714379,0.5418571073120237
+176,2,business,-0.669802925216442,-0.19194778309053764
+177,5,technology,0.3239051205680113,-0.6831993726288167
+178,2,science environment,0.6211795227143799,-0.4213681754531078
+179,2,entertainment arts,-0.6536641735482327,0.41547016759623717
+180,1,bbc news,-0.10155775567143795,0.541857107312024
+181,1,bbc world news 24 hour news tv channel,-0.03032693171368721,0.40907029732476075
+182,0,pictures,0.6722044162415648,-0.15491638044507203
+183,2,reality check,0.49014791233304206,-0.3067462340352348
+184,2,newsbeat,0.03978367407685125,-0.7918783473633535
+185,2,special reports,-0.16974559495269048,-0.7633364704816772
+186,0,long reads,0.02424691933929769,0.7711542949381692
+187,0,coronavirus stories,-0.061328162352643815,-0.25957583770176246
+188,1,bbc news,-0.10155775567143795,0.5418571073120231
+189,2,australia,0.2897915845139026,-0.7260818704888886
+190,1,bbc news,-0.10155775567143789,0.5418571073120236
+191,2,latin america caribbean,0.5457006520822173,-0.54672228978546
+192,2,middle east,-0.47965005925888704,-0.6223755528040146
+193,2,us canada,0.6965951063771563,0.2917820329236071
+194,1,bbc news,-0.10155775567143795,0.5418571073120239
+195,1,bbc news,-0.10155775567143795,0.5418571073120239
+196,1,bbc news,-0.10155775567143793,0.5418571073120234
+197,2,northern ireland,0.4701067962385041,0.6336709872864943
+198,2,scotland,-0.22092186255980695,0.7834900583671967
+199,1,bbc news,-0.101557755671438,0.5418571073120231
+200,1,local news,-0.060611305616547984,0.6953453000298105
+201,2,global trade,-0.6409244328377504,-0.0611229917068405
+202,2,companies,0.25552573007865975,0.7462137275185537
+203,2,entrepreneurship,-0.6200795225892112,-0.49237184372676934
+204,5,technology business,-0.624760872181573,-0.21754630229901847
+205,2,business sport,-0.6705639560339429,-0.1546338043145175
+206,2,global education,0.6737935470846792,0.20586799838422076
+207,1,bbc news,-0.10155775567143788,0.541857107312023
+208,2,global car industry,0.6208555487474842,-0.2057538574985533
+209,6,coronavirus updates brazils virus daily death toll reaches record levels,0.21130006382842764,-0.2792842786387523
+210,0,coronavirus lockdown indian migrants dying get home,-0.03487981506516603,-0.4472867230727513
+211,0,coronavirus bites australias bushfire recovery,-0.05600443703492485,-0.6077281038549156
+212,2,venezuelan bank files legal claim bank england gold,0.029971594151238037,-0.7357278664394167
+213,3,trump says us topping world virus cases badge honour,-0.23296171881283187,-0.1862316344484402
+214,0,amphan heavy rains india bangladesh cyclone bears,0.44948352412098214,0.27773042594889136
+215,0,coronavirus lockdown indian migrants dying get home,-0.03487981506516041,-0.44728672307275125
+216,2,afghan maternity ward attack newborn baby survived two gunshots,-0.7077039345587238,-0.3130194321334482
+217,0,climate change top 10 tips reduce carbon footprint revealed,0.6883490710026313,-0.2668266655845434
+218,0,climate change top 10 tips reduce carbon footprint revealed,0.6883490695843728,-0.2668266700344965
+219,2,michigan floods evacuations edenville sanford dams collapse,0.5373231481525743,-0.47551769932096966
+220,2,pakistan man kissed murdered girls video arrested,0.41676473359342014,-0.5429047159837966
+221,0,coronavirus rollsroyce cut 9000 jobs amid virus crisis,-0.15787075157194352,-0.3545737744113748
+222,0,coronavirus world bank warns 60m risk extreme poverty,0.2731353720164153,-0.13608083403414892
+223,0,coronavirus world bank warns 60m risk extreme poverty,0.2731353720770186,-0.1360808339219063
+224,2,man makes money buying pizza doordash app,-0.46618996780971683,-0.47875688389895893
+225,2,teenage boy charged canadas first incel terror case,-0.5481259471023046,-0.03311902139803763
+226,2,roe v wade woman behind us abortion ruling paid recant,0.6184951193110763,0.4303968204147911
+227,0,coronavirus hydroxychloroquine evidence works,0.16501009992545915,-0.20182675316722395
+228,3,coronavirus president trumps charges,0.17381374196594307,-0.3699605390978343
+229,0,coronavirus whats risk public transport,-0.06128156406932268,-0.3548253506753995
+230,0,coronavirus pandemic tracking global outbreak,-0.24115975425632025,-0.1521761282850482
+231,0,coronavirus long take recover,-0.04423879840602097,-0.18357816959426534
+232,2,australian man fined rescuing whale sea nets,0.6687619450409116,-0.3943636062167169
+233,2,letterwriting connection disconnected times,0.5977181195607865,-0.06143885007104834
+234,3,coronavirus mixed reality headsets help medics treat covid19 patients,0.023859288575490432,-0.5903865468977724
+235,2,josef salvat singer taps modern anxiety new album,0.7786768463386984,0.00036155117775560797
+236,0,coronavirus leads food industry crisis europe,-0.20854478462850592,-0.5189957051919657
+237,2,killer kicks secret trainers,0.49909137393038794,-0.6043356609993246
+238,2,losing beacon light uks ultraorthodox community coronavirus,0.2661587778004456,-0.07557303185778128
+239,0,coronavirus remote controlled mask invented allow eating,-0.29012949741416955,-0.4100418915932157
+240,0,long reads,0.024247590167310824,0.7711539931743773
+241,2,rami makhlouf rift heart syrias ruling family,0.5628317231694809,0.5354334428538409
+242,0,amphan bay bengal worlds hotbed tropical cyclones,0.5074448106382077,0.32004924863735795
+243,2,oil collapse right everything shut,-0.5812663535718001,-0.49210873541228467
+244,0,social distancing extreme weather coronavirus collide,0.10302620597876572,-0.5924228555097409
+245,2,zelenskys ukraine comics dream transformation may,0.29686708021677066,0.7249342670100485
+246,0,coronavirus africa contained unrecorded,-0.03146006664425116,-0.5887092771381606
+247,0,coronavirus anger grows stranded crew forgotten cruises,0.26904085325915367,0.6021842951515581
+248,0,long reads,0.15325475981533285,0.7053111722345666
+249,2,plinofficial russian rapper loved dollars arrested fbi,0.6217281144408859,-0.477303564409648
+250,2,wall fell,-0.6740112174425119,-0.40982984388273797
+251,0,uber driver evicted home left die coronavirus,-0.1214606033988461,-0.5320077339680215
+252,2,dyatlov pass,0.5995849093064297,-0.5090465182779271
+253,2,stole plane get navy,0.5250259300246077,-0.5848354638351162
+254,2,johnson johnson stop selling baby powder us,0.44968669026154706,-0.4460992076200332
+255,2,cambridge university lectures onlineonly summer 2021,-0.12676962477311196,-0.7732582723427527
+256,2,flashing lights could treat alzheimers disease,-0.5917359909457762,-0.36388485094985645
+257,2,might missing commute,0.7798456494562502,-0.05280316469788544
+258,2,japans forgotten indigenous people,-0.0039031218612028623,-0.7727619544748591
+259,2,dreams mean,0.322831501288752,0.7190977598175965
+260,2,much body,0.7819900715307027,0.07409857373097725
+261,2,worlds accessible stress reliever,0.5228077652704528,0.11052431171204055
+262,3,take digital detox covid19 pandemic,0.2608765725136403,-0.6542287446002929
+263,1,bbc news app gives best bbc news wherever,-0.04514803543662705,0.48809049787785624
+264,2,learn bbc working strengthen trust transparency online news,0.13239105633324894,0.5063130750314873
+265,6,coronavirus updates brazils virus daily death toll reaches record levels,0.21129979147426298,-0.27928405606516554
+266,1,bbc news,-0.10155775567143807,0.5418571073120241
+267,0,amphan heavy rains india bangladesh cyclone bears,0.45002904823586765,0.27697493217439845
+268,1,bbc news,-0.10155775567143796,0.5418571073120239
+269,3,trump says us topping world virus cases badge honour,-0.23296424159074283,-0.18623604232665758
+270,2,us canada,0.3386428316739185,0.6758107283307226
+271,0,climate change top 10 tips reduce carbon footprint revealed,0.6883490686879079,-0.26682667284632045
+272,2,science environment,-0.2843758870914061,-0.7013303179546945
+273,0,coronavirus lockdown indian migrants dying get home,-0.03487981498872104,-0.44728672322093976
+274,1,bbc news,-0.10155775567143803,0.5418571073120239
+275,2,afghan maternity ward attack newborn baby survived two gunshots,-0.7077039345699375,-0.31301943210937533
+276,0,coronavirus world bank warns 60m risk extreme poverty,0.2731353643585393,-0.13608084821729965
+277,2,business,-0.6698029252164377,-0.191947783090537
+278,2,michigan floods evacuations edenville sanford dams collapse,0.5431411643395022,0.5001232457735615
+279,0,coronavirus,0.01885115295191588,-0.2951592217718638
+280,2,reality check,-0.551113609683975,-0.21276892370996117
+281,2,worlds accessible stress reliever,0.5444501516464011,0.021082781458748586
+282,3,day parties cause spike covid19 cases,0.5110535194451322,0.1616606761136114
+283,1,bbc news,-0.10155775567143803,0.5418571073120239
+284,3,importance knowing might wrong,0.10275013092811537,-0.7438433776171477
+285,2,successful people see world,0.3906207411804825,0.19788461936126986
+286,4,video explains cannot go faster light,0.3205145374011,0.5119466922598827
+287,0,amphan bay bengal worlds hotbed tropical cyclones,0.5075141120732772,0.3199728521461841
+288,0,india lockdown 40 allowed city,-0.058236649776417904,-0.10778189777938985
+289,0,coronavirus india replace china worlds factory,0.07882682800917026,-0.05986162440647763
+290,0,india extends coronavirus lockdown two weeks,0.05281452206725799,-0.20241946146384587
+291,2,suffering setbacks could make successful,0.5704111439298694,-0.36359316116685736
+292,2,youtube 1980s,0.7584531188688008,-0.15523195560934994
+293,2,sj baker woman transformed public health,0.6212750978081272,-0.3771555504864148
+294,2,max keiras law transplant stories law changes,-0.42901711963003686,0.6833744004702076
+295,1,bbc news,-0.10155775567143788,0.5418571073120235
+296,5,technology,0.3239051205684463,-0.6831993726287585
+297,2,1980s show helping us feel better,-0.5219637634792537,-0.5498450509470765
+298,0,coronavirus rollsroyce cut 9000 jobs amid virus crisis,-0.15787076610091558,-0.3545726442705099
+299,2,johnson johnson stop selling baby powder us,-0.3711143517975704,-0.5063806878273266
+300,2,toy vegetable costs rise fuel price drops,0.42769462140415065,0.6321900319130623
+301,2,oil collapse right everything shut,-0.5812665862810698,-0.4921067301950839
+302,2,facebook shops online stores open facebook instagram,0.09103663357886456,0.7788939878278845
+303,6,hidden toll lockdown rainforests,0.3340467463815539,-0.5195729490337168
+304,2,bees finally getting break,-0.3705531102226002,0.7064749882595759
+305,0,best trees reduce air pollution,0.423930069229994,0.5182318110584957
+306,3,dark web scammers exploit covid19 fear doubt,0.708066882564331,-0.050204377737636224
+307,2,farms appearing beneath cities,-0.6909407394107014,0.24478358345763962
+308,2,losing beacon light uks ultraorthodox community coronavirus,-0.23337140653714425,-0.44191883127068127
+309,2,eurovision 2020 highlights celebration show europe shine light,-0.3136899495496822,-0.5342819911053516
+310,2,entertainment arts,-0.6536670667010213,0.41544580045514456
+311,0,actor leslie jordan lockdown instagram fame,-0.40404737237943716,-0.3018610763580391
+312,3,coronavirus mixed reality headsets help medics treat covid19 patients,0.02386106349536702,-0.5903853826161218
+313,3,trump offers commitment wear mask ford factory,0.603470366798804,0.23317952856557556
+314,2,boris johnson struggles interview,0.748064085338355,0.18890961935341072
+315,2,north america prepares august solar eclipse,-0.6716074036733849,0.1551873369093065
+316,2,koalas facing extinction australian states,0.7338885299249039,-0.2853030634540687
+317,2,australia,0.2897915845139031,-0.7260818704888912
+318,4,video shows destruction mosuls great mosque alnuri,0.5024179080452938,-0.18186459411273467
+319,2,middle east,-0.4796500592588521,-0.6223755528040418
+320,2,devil wheel rider makes happy,-0.7193027463071116,0.11354261693276495
+321,0,coronavirus remote controlled mask invented allow eating,-0.29012949017525613,-0.4100419006333579
+322,0,coronavirus lockdown harmonica player giving cheer neighbours,0.18342780094877162,-0.4749178230145793
+323,0,coronavirus lockdown migrant camp,0.027912816060202694,-0.42572211111506353
+324,1,bbc news,-0.10155775567143788,0.5418571073120236
+325,3,trump claims hes taking unproven malaria drug,-0.2486561403368246,-0.7283144379622323
+326,1,oneminute world news,0.03072739286275632,0.32047979863531184
+327,2,bbc three could return onair channel,0.24993441389822482,0.47989464857219155
+328,2,megaraptor fossils 10mlong dinosaur found argentina,0.08673591416651669,-0.7744450457981676
+329,2,latin america caribbean,0.5457006519919153,-0.5467222898129842
+330,0,coronavirus vaccine first evidence jab train immune system,0.3189581412249916,0.046917907423208845
+331,0,coronavirus security flaws found nhs contacttracing app,-0.322943836174185,-0.2123766896549947
+332,2,business,-0.6698029252164586,-0.1919477830905297
+333,2,coronavirus symptoms uk adds loss smell taste list,-0.07465154030904,-0.6639360564601063
+334,0,coronavirus serco apologises sharing contact tracers email addresses,0.11569648868586085,-0.6416887299964305
+335,2,climate change scientists fear car surge see co2 rebound,0.7280508713681649,-0.1420870482490498
+336,2,ovo energy close offices cut 2600 jobs,0.24528891272381742,0.7057981537368574
+337,2,mars mud flows red planet behave like boiling toothpaste,0.5827216063879024,0.514194083589886
+338,2,methane observing firm eyes uk key base,-0.3427621908563321,-0.6722028237057059
+339,2,nature crisis moths secret role crucial pollinators,0.6637442628648331,0.2952864436287784
+340,2,scrabble fans slam sparkly abomination new app,0.7252619389726426,0.13798922652394208
+341,0,coronavirus bumpy ride message gets complicated,0.4267478106516427,0.09591330475495811
+342,0,coronavirus a4sized face shields narrow ppe,-0.32430885099335904,0.7172747589152924
+343,2,boss,0.7010245852050054,0.3576682768159634
+344,2,man bought 60000 oil gas wells,-0.7010537055220648,0.3320556194919994
+345,2,ai help us harness collective intelligence,-0.7394037227884306,0.014024440766558528
+346,0,pictures,0.6722042055129444,-0.15491732454165014
+347,0,coronavirus women photographers document lockdown,0.11160768104215586,-0.39683447594020227
+348,3,coronavirus pictures show trials smiles covid19 unit,0.38234737628416254,-0.15515371590289936
+349,1,bbc news,-0.1015577556714378,0.5418571073120234
+350,0,africas week pictures 814 may 2020,-0.10746493236199635,-0.6027923315990201
+351,1,bbc news,-0.1015577556714378,0.5418571073120231
+352,2,faded beauty abandoned cars across europe us,-0.0771381853807134,-0.7345967571730843
+353,0,coronavirus images england eases lockdown rules,0.09913392141671533,-0.4964306886916428
+354,3,importance knowing might wrong,-0.7543857453760107,0.13777198415998687
+355,2,successful people see world,-0.028673453952609364,0.007948532772969487
+356,4,video explains cannot go faster light,-0.5675844257447181,0.15063427215418274
+357,0,india lockdown 40 allowed city,-0.006860079937172813,-0.10329953555093727
+358,0,coronavirus india replace china worlds factory,0.0788268486525253,-0.05986163355051717
+359,0,india extends coronavirus lockdown two weeks,0.052814518113741285,-0.20241945914718215
+360,2,toy vegetable costs rise fuel price drops,0.42705991373947116,0.6329890655019388
+361,2,facebook shops online stores open facebook instagram,0.19489654984645507,0.7542849158798572
+362,6,hidden toll lockdown rainforests,0.33404659244272483,-0.5195731559466544
+363,2,bees finally getting break,0.4690789290856561,-0.3361272820233458
+364,0,best trees reduce air pollution,0.42393006931552407,0.5182318109416769
+365,2,eurovision 2020 highlights celebration show europe shine light,-0.3136883776033883,-0.5342839710172645
+366,0,actor leslie jordan lockdown instagram fame,0.3169340218689184,-0.45229946611773714
+367,3,trump offers commitment wear mask ford factory,0.6572076578962497,0.17126699805435566
+368,2,boris johnson struggles interview,0.7480640853389853,0.18890961935229256
+369,2,north america prepares august solar eclipse,0.4808115225432762,-0.5458961599839155
+370,2,koalas facing extinction australian states,0.73388725675815,-0.28530637807207926
+371,4,video shows destruction mosuls great mosque alnuri,0.11569100332270951,0.7413590924216269
+372,2,devil wheel rider makes happy,-0.7193027463067669,0.11354261693192105
+373,0,coronavirus lockdown harmonica player giving cheer neighbours,0.18345938475709941,-0.4748692608201417
+374,0,coronavirus lockdown migrant camp,0.027897544158085815,-0.4256263348111491
+375,3,trump claims hes taking unproven malaria drug,-0.24865614033682465,-0.7283144379622335
+376,1,oneminute world news,0.03073569582941727,0.32049167480748725
+377,2,bbc three could return onair channel,0.24993261325563512,0.4799002984634094
+378,2,megaraptor fossils 10mlong dinosaur found argentina,-0.5346816071541612,0.6194420413937224
+379,0,coronavirus vaccine first evidence jab train immune system,-0.14756576634892965,-0.2446785835845914
+380,0,coronavirus security flaws found nhs contacttracing app,-0.3248014985850471,-0.2062091670689865
+381,2,coronavirus symptoms uk adds loss smell taste list,-0.07465616995396389,-0.6639348732682602
+382,0,coronavirus serco apologises sharing contact tracers email addresses,0.08791368782980087,-0.6508951435911343
+383,0,coronavirus women photographers document lockdown,0.11176922112442696,-0.39678176724140374
+384,3,coronavirus pictures show trials smiles covid19 unit,0.3539130423322556,-0.2514448178405727
+385,0,africas week pictures 814 may 2020,0.5455056809238497,-0.18432177357299953
+386,2,faded beauty abandoned cars across europe us,0.5167685895054961,-0.451984330137139
+387,0,coronavirus images england eases lockdown rules,0.09913370632300995,-0.4964308903433825
+388,6,coronavirus updates brazils virus daily death toll reaches record levels,0.2112995423943982,-0.279283853132049
+389,2,captain tom moore overawed knighthood nhs fundraising,-0.3811813671607218,-0.6764215366051416
+390,2,max keiras law transplant stories law changes,-0.4290147400703466,0.6833758088384989
+391,0,coronavirus,0.01888486650030396,-0.2951613989419246
+392,0,coronavirus ministers pressure schools return date,0.2656419050773969,-0.4117055146976073
+393,0,coronavirus able go holiday,0.28446388056075844,-0.3402240965909781
+394,0,chemical romance lockdown pause button,-0.6103322043977084,-0.024207822957724154
+395,2,man makes money buying pizza doordash app,-0.4661899672769422,-0.4787568847681394
+396,0,coronavirus rollsroyce cut 9000 jobs amid virus crisis,-0.15787076478425557,-0.35457101791941387
+397,1,bbc news,-0.10155775567143784,0.5418571073120226
+398,3,coronavirus ni rolls covid19 contact tracing pilot scheme,-0.3132165072532256,-0.313008661067228
+399,0,coronavirus scotland,-0.23986622601100882,0.722205238195737
+400,0,coronavirus wales carer turned away buying food parents,0.2628123824481394,-0.5565481058476937
+401,0,climate change top 10 tips reduce carbon footprint revealed,0.6935505227693688,-0.2549851654073862
+402,2,flights fancy safari prestwick ingenious alternatives dashed holiday plans,0.1854957317285674,0.7740851212294302
+403,2,beauty bite weird world carnivorous plants,-0.4869845620709819,-0.008259784783547502
+404,2,nine things learned sir lenny henry spoke louis theroux,0.4003570288643238,-0.6641890835369432
+405,2,china abductions parents find son snatched hotel 32 years ago,-0.7633859684948079,-0.12738499208362788
+406,2,fang fang wuhan writer whose virus diary angered china,0.5864128054435304,-0.2584938433685832
+407,2,ranganation series 2 episode 1,0.44072398664437074,-0.634036340515659
+408,2,match day series 1 final day drama,-0.004776518666783154,-0.7434743448210008
+409,2,make peelings,0.6310816050400433,0.32706044830869335
+410,2,bbc three could return onair channel,0.24993441468617586,0.47989464609973254
+411,2,feud erupts ariana grande justin biebers us chart position,0.43156221068145045,-0.6563936639551377
+412,2,bbc breakfasts carol kirkwood injured bike accident,0.01014268091707605,0.16946006245539466
+413,2,cambridge university lectures onlineonly summer 2021,-0.1270949265385495,-0.7731824461058608
+414,2,johnson johnson stop selling baby powder us,0.6285088387658841,0.1530719332547596
+415,2,frances macron loses majority defectors form new party,0.5874391377101922,0.4176397153208734
+416,2,coeliac awareness week looked pregnant time,-0.25063098003829815,-0.6036675363186919
+417,2,introducing new guardian app android ios,0.32113573456127914,0.6257410362834487
+418,2,guardian puzzles subscription faqs,-0.754676559765548,-0.14935966336839673
+419,0,coronavirus live news russia passes 300000 cases spain mandates face masks six,-0.18584068137769516,0.06343184556400426
+420,2,uk coronavirus live minister confirms government policy protect nhs ahead care homes,-0.27195260852210756,-0.32190796318343684
+421,2,singapore sentences man death via zoom call,-0.6819129245202377,0.3072080514490231
+422,6,rollsroyce cut 9000 jobs covid19 takes toll,0.3583930056047881,-0.38862815717789495
+423,3,global report brazils deadliest day trump calls us cases badge honour,-0.15103033964314536,-0.6808465409242963
+424,3,trump taking hydroxychloroquine white house confirms,-0.21039710356800317,-0.7140197370391681
+425,2,jacinda ardern flags fourday working week way rebuild new zealand covid19,0.5882551646753952,0.10858733099485157
+426,0,type 1 diabetics likely type 2 die coronavirus study,0.2812982143331697,-0.6078248676912551
+427,0,coronavirus week explained sign email newsletter,0.3257175958027657,0.24045362496034553
+428,0,coronavirus cases deaths time countries compare around world,0.1408633863023324,-0.09506500205850216
+429,0,coronavirus latest glance,-0.25410821550635215,0.010388173670127628
+430,2,new york gears contact tracing experts warn difficulties,0.7092336383308132,0.08158101493166639
+431,3,hydroxychloroquine trump covid19 need know,-0.4657045898220326,-0.15850293640523824
+432,3,one idea contact tracers lack knowledge covid19 job,0.5153987777303778,-0.0024394970472494466
+433,2,uk plans contacttracing doubt app ready june,0.4390726874951837,0.460239258925674
+434,2,heed lessons 2008 crisis experts warn global leaders,-0.5895573408649414,0.03601172497246802
+435,2,lights camera action thai films banned shooting love scenes covid19,-0.5252602188751948,-0.2746360123831299
+436,2,inflation falls uk eurozone amid covid19 lockdowns global trade tumbles business live,-0.40143054214013396,-0.2462140825544761
+437,2,quarantine fatigue well truly set could spell trouble,0.25347193282088115,-0.7417003622030033
+438,3,coronavirus affects mental health heres know anthony david,-0.18829084254292627,-0.5923664918341195
+439,2,uk government ready pandemic sabotaged system,0.5714634413747262,0.3584889791718936
+440,2,british schools reopen heres science tells us,-0.2973307743778726,-0.722552128918972
+441,2,climate change turning parts antarctica green say scientists,0.6743599608766325,-0.32592605323899104
+442,0,super cyclone amphan evacuations india bangladesh slowed virus,0.40176951921928244,0.14138395238403054
+443,2,give 30 minutes malta turns migrant boat away directions italy,0.06689235590325816,-0.7531231177621952
+444,2,palestinian leader mahmoud abbas ends security agreement israel us,0.46281230630549575,-0.6055767957219733
+445,2,apple whistleblower goes public lack action,-0.6313455373128702,-0.3778538812371627
+446,2,roe v wade plaintiff admits abortion rights reversal act new film,-0.516369646044183,-0.32570934394037865
+447,2,nasa head human spaceflight suddenly resigns days historic space mission,0.7659388535968507,-0.08530123006565375
+448,0,coronavirus fallout slow global growth renewable energy,0.39920696274429796,-0.2613140865138994
+449,3,taiwan president hits back china amid covid19 success,0.4225919687534954,-0.33287515360450315
+450,2,beacon light capt tom moore knighted,-0.6917867654410086,0.3714489794711982
+451,2,children darfur revisiting orphaned conflict,-0.7364334856823291,0.25660935824149056
+452,0,growing long shadow darfurs genocide pictures,0.5994605319085434,-0.28363511223221977
+453,2,peter gallagher one toxic things world success,0.5100508337429566,-0.13727964342328783
+454,2,soundscape relax sounds british wildlife,-0.04328662492864794,-0.7867227357278731
+455,2,lie lie lie former jordan teammate gives withering assessment last dance,0.17020298805058698,-0.7630046059067276
+456,2,clicked back life netflix reviving forgotten film flops,0.49033952646268236,0.41090143451843436
+457,2,tarted make large haul lemons,0.7461869589758446,-0.020427519391445104
+458,0,antidote favourite reads beyond coronavirus,0.24947571269635843,-0.023051979697237834
+459,2,wild child patrick barkham review children need nature,-0.6674917877302167,-0.33770622306789916
+460,2,today focus,-0.7344304801315525,-0.24602335251751434
+461,3,scientific race understand covid19 podcast,-0.6710560148692248,0.01662394613366813
+462,2,universities beware shifting classes online quickly doubleedged sword,-0.1941219136521779,-0.7505924163237121
+463,2,immigration bill shows uk ministers value strawberries people needing social care karolina gerlich,0.6611798902621281,-0.05779420290033515
+464,3,donald trump end prison could step closer arwa mahdawi,-0.33142923700149607,-0.7038601852434226
+465,2,time dismantle factory farms get used eating less meat gene baur,-0.5476396115731991,-0.0998252544493292
+466,0,coronavirus latest senior royal wants us checks notes work harder joel golby,-0.38736428626577907,-0.02707088346046012
+467,0,iranian lockdown coronavirus changed one couples life,0.33857927840946683,-0.22260010218782492
+468,2,uefas aleksander ceferin football fans come back soon sebastin fest,-0.7582040924982327,-0.02615494696054517
+469,2,world watches relief bundesliga makes safe return,0.3634937311428206,0.3181999761036764
+470,2,forgotten stories football farce fascism 1936 olympics podcast,-0.42910061833821067,-0.5852449574582688
+471,0,watford reveal one player two staff tested positive coronavirus,0.3445439984744051,0.4987333272531342
+472,3,burnley coach ian woan among six positive premier league covid19 tests,-0.6557564395268242,0.09162188675498281
+473,2,forgotten stories football manchester united v galatasaray 1993 podcast,-0.4008833669011025,-0.5715022838217777
+474,2,recap sign best guardians sport coverage,-0.6132953574208446,-0.08937816857595858
+475,2,david squires biosecurity bundesliga fussball back,-0.7163266037028987,0.2827038643351728
+476,2,warrington wolves tempt australian great greg inglis retirement,-0.6382604249190267,-0.42862443595391886
+477,2,football champions gone business faster hallelujah fc knowledge,-0.6759543541244664,-0.24527565485947744
+478,2,merger equals johanna konta backs idea combine atp wta tours,0.6535407945285,-0.43963938690515747
+479,2,uk antidoping chief warns cheats lockdown wont stop caught,-0.46010064291150443,-0.2783731157399868
+480,2,contact guardian securely,0.6371367109456639,0.2520710645111024
+481,2,canada police say machete killing incel terror attack,0.48144458519176736,0.5389664156487736
+482,2,feel safe samoan seafarers plead right return home,-0.5255590086796949,-0.49635497312564353
+483,0,lockdowns trigger dramatic fall global carbon emissions,0.14944237246960168,-0.6896331190294281
+484,2,matt lauer lashes ronan farrow wake new york times critique,0.6974836829018928,0.04365998050478224
+485,2,court dismisses appeal woman claiming salvador dals daughter,0.3640874179889852,0.690176450305353
+486,2,gregory tyree boyce twilight actor dies age 30,0.2662790604547178,0.679335609617322
+487,2,elderly south korean immigrant dies apparent suicide detention center,-0.5539894944268918,-0.5522018303706366
+488,2,assads cousin says syrian government seizing assets,-0.7182436936456481,-0.04579067764725606
+489,2,ive never seen notting hill,-0.7835659375539376,0.0745150144713914
+490,2,gillian anderson streetcar named desire hanging reality thread,-0.4269730823707521,-0.6454489788873504
+491,0,virtual reality help get lockdown,0.1568775631024946,-0.6158431440541036
+492,2,artist creates paintings news stories chronicling covid19 crisis,-0.3619813173372298,0.09692709028671553
+493,2,adventures china iron review thrilling miniature epic,0.13654711198464292,-0.7687718819710145
+494,2,christopher eccleston dont watch tv hard suspend disbelief,0.49496748304220983,0.5149506632938505
+495,2,abcs recruiting teachers remotely,0.5916508799872073,-0.4424737343633474
+496,2,conduct remote interview seven tips schools hiring teachers,0.4072496657853528,-0.6036010651109773
+497,2,new rules remote recruiting prepare online interview,0.45747184670661206,0.4045560020563776
+498,2,teacher training prepare teach new class lockdown,-0.4106088573006847,-0.15433644581951217
+499,2,looking teach new school heres find one thats right,-0.6162747186508463,0.10700611992689411

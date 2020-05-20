@@ -31,7 +31,7 @@ def df_to_csv(df, filename='NewsCluster.csv'):
     df.to_csv('./data/' + filename)
 
 
-def create_csv(links):
+def create_csv():
     '''
         aggregator function of this module
     '''
