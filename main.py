@@ -1,5 +1,5 @@
 from csv_df import create_csv
-from cluster import cluster
+from cluster import cluster, hierarchical_cluster
 from to_db import to_database
 
 # LINKS = ['http://cnn.com', 'https://www.hindustantimes.com/', 'https://timesofindia.indiatimes.com/']
@@ -11,4 +11,5 @@ if __name__ == "__main__":
     '''
     create_csv()
     cluster()
+    hierarchical_cluster()
     to_database()

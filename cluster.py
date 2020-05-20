@@ -10,6 +10,11 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.cluster import KMeans
 from sklearn import svm
+from sklearn.metrics import accuracy_score
+from scipy.cluster.hierarchy import ward, dendrogram
+from sklearn.metrics import accuracy_score
+
+accuracy_dict = {}
 
 
 def clean(text):
@@ -36,6 +41,42 @@ def tokenize_and_stem(text_file):
     stems = [stemmer.stem(t) for t in filtered]
     return stems
 
+def hierarchical_cluster():
+
+    df = pd.read_csv('./data/NewsCluster.csv')
+    data = df["Title"].tolist()
+
+    for dt in data:
+        data[data.index(dt)] = clean(dt)
+
+    data = pd.DataFrame(data, columns=["text"])
+    data['text'].dropna(inplace=True)
+
+    # text data in dataframe and removing stops words
+    stop_words = set(stopwords.words('english'))
+    data['text'] = data['text'].apply(lambda x: ' '.join([word for word in x.split() if word not in stop_words]))
+
+    # Using TFIDF vectorizer to convert convert words to Vector Space
+    tfidf_vectorizer = TfidfVectorizer(max_features=200000,
+                                       use_idf=True,
+                                       stop_words='english',
+                                       tokenizer=tokenize_and_stem)
+    #                                   ngram_range=(1, 3))
+
+    # Fit the vectorizer to text data
+    tfidf_matrix = tfidf_vectorizer.fit_transform(data['text'])
+
+    # Calculating the distance measure derived from cosine similarity
+    distance = 1 - cosine_similarity(tfidf_matrix)
+
+    # Ward’s method produces a hierarchy of clusterings
+    linkage_matrix = ward(distance)
+    fig, ax = plt.subplots(figsize=(15, 20)) # set size
+    ax = dendrogram(linkage_matrix, orientation="top", labels=data.values)
+    plt.tight_layout()
+    plt.title('News Headlines using Ward Hierarchical Method')
+    plt.savefig('./results/hierarchical.png')
+
 def cluster():
     '''
         aggregator for this module
@@ -47,6 +88,7 @@ def cluster():
         data[data.index(dt)] = clean(dt)
 
     data = pd.DataFrame(data, columns=["text"])
+    data['text'].dropna(inplace=True)
     
 
     # text data in dataframe and removing stops words
@@ -120,4 +162,10 @@ def cluster():
     plt.title('News Headlines using KMeans Clustering')
     plt.savefig('./results/kmeans.png')
 
+    #SVM SVC
+    clf = svm.SVC()
+    clf.fit(tfidf_matrix)
+    labels = clf.classes_
+    print(labels)
 
+cluster()
