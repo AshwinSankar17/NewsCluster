@@ -13,7 +13,9 @@ from sklearn import svm
 from sklearn.metrics import accuracy_score
 from scipy.cluster.hierarchy import ward, dendrogram
 from sklearn.metrics import accuracy_score
+from warnings import filterwarnings
 
+filterwarnings(actions='ignore')
 accuracy_dict = {}
 
 
@@ -162,10 +164,6 @@ def cluster():
     plt.title('News Headlines using KMeans Clustering')
     plt.savefig('./results/kmeans.png')
 
-    #SVM SVC
-    clf = svm.SVC()
-    clf.fit(tfidf_matrix)
-    labels = clf.classes_
-    print(labels)
+    
 
 cluster()

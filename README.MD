@@ -2,19 +2,42 @@
 
 ##### This repository is a clusterer using news headlines
 
-The clustering used here is K-Means clustering and MDS clustering
+The clustering algorithms used here are MiniBatchKmeans, Agglomerative clustering, Affinity Propogation, Birch clustering, DBSCAN and couple of other algorithms.
 
 
-#### [scraper.py](https://github.com/1hef001/NewsCluster/blob/master/scraper.py) scrapes google news by default but can be set to scrape any online news vendor
+#### Execute the IronPythonNoteBook for the best experience
 
-Run it after uncommenting the driver code to test.
+Execute it using Jupiter Notebook or Google Colabs.
 
-```
-    python scraper.py
-```
+Every other python file except the ones named "newscluster" are the starting versions of it. Although "main.py" does result in generation of png files in "results" folder, it has lesser algorithms implemented in it.
 
-#### [main.py](https://github.com/1hef001/NewsCluster/blob/master/main.py) is the driver code for the whole project. Run this and it'll take control.
+Affinity Propogation:
 
-```
-    python main.py
-```
+![Affinity Propogation](./data/Aff.PNG)
+
+
+Agglomerative Clustering:
+
+![Agglomerative Clustering](./data/Agg.PNG)
+
+
+Birch Clustering:
+
+![Birch Clustering](./data/Birch.PNG)
+
+
+DBSCAN:
+
+![DBSCAN](./data/DBSCAN.PNG)
+
+
+KMeans:
+
+![KMeans](./data/KMeans.PNG)
+
+
+MiniBatchKMeans:
+![MiniBatchKMeans](./data/MiniKm.PNG)
+
+Spectral Clustering:
+![Spectral Clustering](./data/Spec.PNG)
