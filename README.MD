@@ -4,6 +4,8 @@
 
 The clustering algorithms used here are MiniBatchKmeans, Agglomerative clustering, Affinity Propogation, Birch clustering, DBSCAN and couple of other algorithms.
 
+**Note: Agglomerative clustering, Affinity Propogation, Birch clustering, DBSCAN, etc are used for experimental purposes. MiniBatchKMeans and KMeans were found to be the optimal clustering Algorithms in this case.**
+
 #### Execute the IronPythonNoteBook for the best experience
 
 Execute it using Jupiter Notebook or Google Colabs.
