@@ -24,12 +24,9 @@ Every other python file except the ones named "newscluster" are the starting ver
          https://www.theguardian.co.uk/
          https://www.hindustantimes.com/
          https://indianexpress.com/
-         https://www.dailypioneer.com
          https://www.deccanherald.com/
          https://www.telegraphindia.com/
-         https://www.dnaindia.com/
          https://www.deccanchronicle.com/
-         https://www.asianage.com/
          https://economictimes.indiatimes.com/
          https://www.tribuneindia.com/
 
