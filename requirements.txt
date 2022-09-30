@@ -45,7 +45,7 @@ imagesize==1.2.0
 isort==4.3.21
 jieba3k==0.35.1
 Jinja2==2.11.2
-joblib==0.15.1
+joblib==1.2.0
 keyring==21.2.1
 kiwisolver==1.2.0
 lazy-object-proxy==1.4.3
